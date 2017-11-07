@@ -1,0 +1,23 @@
+
+.col-md-3{
+    color: black;
+}
+
+.col-md-3 ul.recipes-1{
+    list-style-type: circle;
+}
+
+.col-md-3{
+    font-size: 13px;
+    font-family: sans-serif;
+}
+
+.col-md-3 p{
+    font-size: 13px;
+    font-family: sans-serif;
+}
+
+.col-md-3 .commentbox td{
+    font-size: 13px;
+    font-family: sans-serif;
+}
