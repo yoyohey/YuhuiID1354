@@ -132,3 +132,10 @@
     font-weight: bold;
     text-align: center;
 }
+.other-recipes h5{
+    background-color: yellow;
+    font-family: 'Shift', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
